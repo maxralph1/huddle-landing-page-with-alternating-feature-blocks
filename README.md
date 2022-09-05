@@ -27,10 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://codepen.io/maxralph/full/XWqJWbQ)
-
-## My process
+- Solution URL: [codepen.io](https://codepen.io/maxralph/pen/XWqJWbQ)
+- Live Site URL: [codepen.io](https://codepen.io/maxralph/full/XWqJWbQ)
 
 ### Built with
 
